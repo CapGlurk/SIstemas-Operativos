@@ -1,0 +1,9 @@
+##El desarrollo de esta página es propio de Pedro Andrés Galvis s y Damar Alejandro Ruedas##
+¡!
+-Hay unos links que no se han puesto.
+-Falta agregar información sobre el tema.
+-Hay imagenes que deben ser editadas.
+-En Quiz.html hay que escribir las preguntas en el place holder,
+hay que agregar una función o método que envíe las respuestas a un correo proporcionado por nosotros.
+%En este proyecto fueron utilizadas librerías como jquerys%
+#Este es un adelanto del proyecto por lo tanto el diseño y el contenido pueden variar#
